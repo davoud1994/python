@@ -6,7 +6,7 @@ some simple exercises from python:
 <!--  -->
 2-Second power and third power of numbers
 <!--  -->
-3-we have two number and we need to Raise the first number to the power of the second number.
+3-we have two numbers and we need to Raise the first number to the power of the second number.
 <!--  -->
 4-Average of 3 numbers.
 <!--  -->
