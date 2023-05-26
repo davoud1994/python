@@ -8,6 +8,6 @@ some  simple exercises  from python:
 #-work with string.
 1-Get a sting from user ,then print number of words , totall charcters and number of english words
 2-Get a character from user, and it prints its unicod.
-3-check a number and is it a number or not?.
+3-check a number that is it a number or not?.
 
 
