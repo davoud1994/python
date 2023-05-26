@@ -1,4 +1,5 @@
 # python
+print()
 some  simple exercises  from python:
 1-Calculate the area and circumference of a circle
 2-Second power and third power of numbers
